@@ -22,6 +22,9 @@ Here are some code examples of generative models, which are implemented with Ten
 ### Lab 17: DQN
 ### Competition 01: Predicting News Popularity  
 ### Competition 02: Object Detection & Localization  
+| person | chair | bus | horse|
+|:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
+|<img src='result/person.png' width='200'>|<img src='result/chair.png' width='200'>|<img src='result/bus.png' width='200'>|<img src='result/horse.png' width='200'>|
 ### Competition 03: Reverse Image Caption  
 | epoch 63 | epoch 447 | epoch 799 | epoch 991|
 |:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
