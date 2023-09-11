@@ -12,7 +12,7 @@ Here are some code examples of generative models, which are implemented with Ten
 ### Lab 12: Convolutional Neural Networks
 | content image | style image | style transfer without variation loss | style transfer with variation loss|
 |:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
-|<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_0.pngg' width='200'>|
+|<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_100.png' width='200'>|<img src='result/CNN_400.png' width='200'>|<img src='result/CNN_1000.png' width='200'>|
 
 ### Lab 12: Convolutional Neural Networks  
 ### Lab 13: Seq2Seq Learning  
