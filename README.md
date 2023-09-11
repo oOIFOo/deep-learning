@@ -13,8 +13,6 @@ Here are some code examples of generative models, which are implemented with Ten
 | origin image | train step 200 | train step 400 | train step 1000|
 |:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
 |<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_100.png' width='200'>|<img src='result/CNN_400.png' width='200'>|<img src='result/CNN_1000.png' width='200'>|
-
-### Lab 12: Convolutional Neural Networks  
 ### Lab 13: Seq2Seq Learning  
 ### Lab 14: GAN  
 ### Lab 16: Q-learning  
