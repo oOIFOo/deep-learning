@@ -1,4 +1,6 @@
-Deep Learning  
+# TF2_DeepLearning_GenerativeModel
+Here are some code examples of generative models, which are implemented with Tensorflow 2.4.0, results are shown as below: 
+
 ### Lab 2: PCA  
 ### Lab 3: Random Forest  
 ### Lab 4: Numerical Optimization  
@@ -7,6 +9,11 @@ Deep Learning
 ### Lab 7: Non-Parametric Methods & SVMs  
 ### Lab 8: Cross Validation & Ensembling  
 ### Lab 11: Word2Vec  
+### Lab 12: Convolutional Neural Networks
+| content image | style image | style transfer without variation loss | style transfer with variation loss|
+|:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
+|<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_0.pngg' width='200'>|
+
 ### Lab 12: Convolutional Neural Networks  
 ### Lab 13: Seq2Seq Learning  
 ### Lab 14: GAN  
