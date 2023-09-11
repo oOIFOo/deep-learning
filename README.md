@@ -23,5 +23,8 @@ Here are some code examples of generative models, which are implemented with Ten
 ### Competition 01: Predicting News Popularity  
 ### Competition 02: Object Detection & Localization  
 ### Competition 03: Reverse Image Caption  
+| epoch 63 | epoch 447 | epoch 799 | epoch 991|
+|:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
+|<img src='result/reverse_63.png' width='200'>|<img src='result/reverse_447.png' width='200'>|<img src='result/reverse_799.png' width='200'>|<img src='result/reverse_991.png' width='200'>|
 ### Competition 04: Flappy Bird with Policy Gradient  
 |<img src='result/falppy bird.gif' width='200'>|
