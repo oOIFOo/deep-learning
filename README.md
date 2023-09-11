@@ -15,9 +15,13 @@ Here are some code examples of generative models, which are implemented with Ten
 |<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_100.png' width='200'>|<img src='result/CNN_400.png' width='200'>|<img src='result/CNN_1000.png' width='200'>|
 ### Lab 13: Seq2Seq Learning  
 ### Lab 14: GAN  
+| epoch 31 | epoch 95 | epoch 159 | epoch 255|
+|:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
+|<img src='result/GAN_31.png' width='200'>|<img src='result/GAN_95.png' width='200'>|<img src='result/GAN_159.png' width='200'>|<img src='result/GAN_255.png' width='200'>|
 ### Lab 16: Q-learning  
 ### Lab 17: DQN
 ### Competition 01: Predicting News Popularity  
 ### Competition 02: Object Detection & Localization  
 ### Competition 03: Reverse Image Caption  
 ### Competition 04: Flappy Bird with Policy Gradient  
+![Farmers Market Finder Demo](result/falppy bird.gif)
