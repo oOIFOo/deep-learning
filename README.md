@@ -10,7 +10,7 @@ Here are some code examples of generative models, which are implemented with Ten
 ### Lab 8: Cross Validation & Ensembling  
 ### Lab 11: Word2Vec  
 ### Lab 12: Convolutional Neural Networks
-| content image | style image | style transfer without variation loss | style transfer with variation loss|
+| origin image | train step 200 | train step 400 | train step 1000|
 |:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
 |<img src='result/CNN_0.png' width='200'>|<img src='result/CNN_100.png' width='200'>|<img src='result/CNN_400.png' width='200'>|<img src='result/CNN_1000.png' width='200'>|
 
